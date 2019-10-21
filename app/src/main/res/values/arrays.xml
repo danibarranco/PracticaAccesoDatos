@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="pref">
+        <item>Interno</item>
+        <item>Externo</item>
+    </string-array>
+    <array name="prefl">
+        <item>true</item>
+        <item>false</item>
+    </array>
+</resources>

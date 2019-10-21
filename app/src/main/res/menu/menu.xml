@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/ajustes"
+        android:icon="@drawable/ic_action_name3"
+        android:title="@string/title_activity_ajustes"
+        app:showAsAction="always"
+        ></item>
+    <item android:id="@+id/historial"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/historial"
+        app:showAsAction="always"
+        ></item>
+</menu>

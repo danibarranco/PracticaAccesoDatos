@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ContactsKeeper</string>
+    <string name="interno">Interno</string>
+    <string name="priv">Privado</string>
+    <string name="impor">EXPORTAR</string>
+    <string name="nom">NOMBRE FICHERO</string>
+    <string name="checkNom">POR FAVOR INTRODUZCA NOMBRE FICHERO</string>
+    <string name="checkRadio">POR FAVOR SELECCIONE ALMACENAMIENTO</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="sharedKey">key</string>
+
+    <!-- Preference Titles -->
+    <string name="extension">Extension por defecto</string>
+    <string name="guarF">Guardado de ficheros</string>
+    <string name="guarH">Guardar en historial</string>
+
+    <!-- Messages Preferences -->
+    <string name="ext">Introduce extension</string>
+    <string name="ficheL">Guardar en almacenamiento Privado</string>
+    <string name="ficheLS">Almacenamiento Interno por defecto</string>
+    <string name="ficheH">Guardar fichero en historial de ficheros</string>
+    <string name="ficheHS">No se guarda por defecto</string>
+
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="historial">Historial</string>
+    <string name="mensajeExplicacion">Es necesario la aceptación de los permisos</string>
+    <string name="tituloExplicacion">Se requieren permisos</string>
+    <string name="respSi">Si</string>
+    <string name="respNo">No</string>
+    <string name="title_activity_historial">Historial de ficheros</string>
+    <string name="title_activity_contactos">Lista de contactos</string>
+    <string name="title_activity_archivo">Archivo</string>
+    <string name="abrirF">Abrir</string>
+    <string name="Titulo">Exportar contactos</string>
+    <string name="ficheAyu">Introduce un nombre para el fichero</string>
+    <string name="csv">.csv</string>
+
+
+</resources>
